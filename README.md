@@ -26,10 +26,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Piyushsharma9878&style=flat-square&color=6366f1" alt="Profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Piyushsharma9878?label=Followers&style=flat-square&color=6366f1"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Piyushsharma9878?label=Stars&style=flat-square&color=6366f1"/>
 </p>
 
 </div>
@@ -62,29 +58,6 @@ I'm **Piyush Sharma**, a **Software Developer & Systems Builder** passionate abo
 * ⚙️ **Systems Engineering**: Implementing structured component architectures, modular code, and automated workflows.
 
 > *"Don't just learn — build something real."*
-
----
-
-## 📊 GitHub Analytics & Performance
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Piyushsharma9878&show_icons=true&theme=transparent&hide_border=false&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&bg_color=0d1117" width="100%" alt="Piyush's GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsharma9878&layout=compact&theme=transparent&hide_border=false&title_color=6366f1&text_color=e2e8f0&bg_color=0d1117" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushsharma9878&theme=dark&background=0D1117&border=6366F1&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=6366F1" width="95%" alt="GitHub Streak Stats"/>
-
-</div>
 
 ---
 
