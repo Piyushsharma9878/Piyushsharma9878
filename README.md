@@ -1,26 +1,29 @@
 <div align="center">
 
-<a href="https://github.com/Chaitanyasethi1">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&height=70&lines=CHAITANYA+SETHI;AI%2FML+ENGINEER+%C2%B7+SYSTEMS+BUILDER;LLM+%C2%B7+RAG+%C2%B7+AGENTS+%C2%B7+FULL-STACK" alt="Chaitanya Sethi"/>
+<a href="https://github.com/Piyushsharma9878">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&height=70&lines=PIYUSH+SHARMA;SOFTWARE+ENGINEER+%C2%B7+SYSTEMS+BUILDER;FULL-STACK+%C2%B7+IOT+%C2%B7+AI%2FML+%C2%B7+REACT" alt="Piyush Sharma"/>
 </a>
 
 <br>
 
 <p>
-<a href="https://www.linkedin.com/in/chaitanyasethi009">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Piyushsharma9878">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:chaitanyasethi3336@gmail.com">
+<a href="mailto:sh23piyush@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.airavatxdr.in/">
-<img src="https://img.shields.io/badge/AIRAVAT_XDR-Live-111827?style=flat-square"/>
+<a href="https://github.com/Piyushsharma9878/NoteNetra">
+<img src="https://img.shields.io/badge/NoteNetra-IoT_Fintech-111827?style=flat-square"/>
+</a>
+<a href="https://github.com/Piyushsharma9878/restro">
+<img src="https://img.shields.io/badge/Restro-React_Vite-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </a>
 </p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Chaitanyasethi1&style=flat-square&color=6366f1" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Piyushsharma9878&style=flat-square&color=6366f1" alt="Profile views"/>
 
 </div>
 
@@ -30,19 +33,19 @@
 
 ## About Me
 
-I'm **Chaitanya Sethi**, a 3rd-year **B.Tech AI & Data Science** student at VIPS Delhi and a **Software Engineer Intern @ 7rd.ai**.
+I'm **Piyush Sharma**, a passionate **Software Engineer** and **Systems Builder** focused on building reliable, high-impact software at the intersection of **Full-Stack Engineering, IoT Systems, and Applied AI/ML**.
 
-I build systems at the intersection of **AI/ML, LLMs, backend engineering, and real-world products**.
+I build systems at the intersection of **clean backend architectures, modern interactive web applications, and connected hardware devices**.
 
 Currently working on:
 
-* 🛰️ Autonomous drone-defense systems
-* 🧠 LLM + RAG pipelines
-* 🤖 Production AI agents
-* ⚙️ Full-stack systems and infrastructure
-* 🔬 Applied AI/ML for real-world problems
+* 📦 **NoteNetra**: IoT-enabled transaction tracking and alternative cashflow credit scoring platform for offline MSMEs
+* 🍽️ **Restro**: Modern restaurant management and ordering web application built with React and Vite
+* 🧠 **Applied AI & Automation**: Machine learning pipelines, anomaly detection, and autonomous workflows
+* ⚙️ **Full-Stack Systems**: Responsive frontends coupled with performant backend services
+* 🔬 **Hardware & Embedded IoT**: ESP32 microcontrollers, embedded C/C++, sensor integration, and telemetry
 
-> **I don't just experiment with AI — I build systems that ship.**
+> **I don't just experiment with code — I build systems that solve real-world problems.**
 
 ---
 
@@ -50,31 +53,23 @@ Currently working on:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
-│                         CURRENT FOCUS                            │
+│                         CURRENT FOCUS                           │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  LLM Systems        →  RAG · Agents · AI Pipelines              │
-│  AI/ML              →  NLP · Anomaly Detection · Vision AI     │
-│  Backend            →  FastAPI · Python · Production APIs      │
-│  Full-Stack         →  React · Next.js · Electron · TypeScript │
-│  Systems            →  Linux · Docker · AWS · Git              │
-│  Hardware           →  ESP32 · Embedded C/C++                   │
+│  Full-Stack         →  React · Vite · TypeScript · Node.js      │
+│  Hardware & IoT     →  ESP32 · Embedded C/C++ · Sensor Telemetry│
+│  Backend Systems    →  FastAPI · Python · REST APIs · DB        │
+│  AI / ML Systems    →  NLP · Anomaly Detection · AI Tooling     │
+│  Systems & DevOps   →  Linux · Docker · Git · CI/CD             │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Software Engineer Intern — 7rd.ai
+### Core Focus Areas
 
-Working on an autonomous drone-defense platform involving:
-
-* Windows-native ground control software
-* Electron + React + TypeScript
-* Vision AI
-* Autonomous navigation
-* Electronic-warfare-resilient systems
-* AI-powered operational tooling
-
-Also contributing to production AI infrastructure, including an autonomous agent deployed on VPS infrastructure that reduced manual operational work by approximately **40%**.
+* **IoT & Embedded Systems**: Building end-to-end connected systems combining ESP32 microcontrollers, edge sensors, and cloud communication protocols.
+* **Modern Web Development**: Crafting performant, responsive web apps utilizing React, Vite, modern JavaScript/TypeScript, and scalable CSS.
+* **Intelligent Data & AI**: Leveraging machine learning and natural language processing to extract insights from real-world data streams.
 
 ---
 
@@ -84,9 +79,9 @@ Also contributing to production AI infrastructure, including an autonomous agent
 
 | Achievement                                |         Result         |
 | :----------------------------------------- | :--------------------: |
-| 🇮🇳 **India Innovates 2026**              |    National Finalist   |
 | 🚀 **Samsung Solve for Tomorrow 2025**     | Top 10 / 20,000+ teams |
 | 🥇 **Supernova Hackathon — GL Bajaj 2025** |        1st Place       |
+| 🇮🇳 **National-Level Competitions**        | Finalist / Innovator   |
 
 </div>
 
@@ -99,51 +94,55 @@ Also contributing to production AI infrastructure, including an autonomous agent
 
 <td width="50%" valign="top">
 
-## 🔐 AIRAVAT XDR
+## 📒 NoteNetra
 
-### Autonomous AI Cyber Defense Platform
+### Smart IIoT-Powered MSME Cashflow Platform
 
-**National Finalist — India Innovates 2026**
+**Top 10 — Samsung Solve for Tomorrow 2025**
 
-Real-time cyber-defense platform combining:
+An affordable IIoT + Web platform that transforms India's offline cash-based shops into digitally visible, creditworthy businesses:
 
-* Isolation Forest anomaly detection
-* NLP phishing classification
-* Risk-score fusion
-* FastAPI backend
-* React dashboard
+* ESP32 hardware device tracking cash & transaction events
+* Web dashboard generating instant business analytics
+* Alternative credit score engine enabling loans without GST or CIBIL
+* Storefront builder & growth hub for shopkeepers
 
 **Impact**
 
-`<2s` response latency
-`<5%` reported false-positive rate
+`1,000+` daily transactions targeted  
+Empowering underserved MSMEs with credit access
 
 **Stack**
 
-`Python` `FastAPI` `React` `Scikit-learn` `NLP`
+`ESP32` `C++` `Python` `IoT` `HTML/CSS`
 
-[Repository →](https://github.com/Chaitanyasethi1/XDR_hack)
-[Live System →](https://www.airavatxdr.in/)
+[Repository →](https://github.com/Piyushsharma9878/NoteNetra)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 SAMARTH-AI
+## 🍽️ Restro
 
-### Government Taxonomy Classification
+### Modern Restaurant Management & Ordering App
 
-Full-stack NLP system mapping natural-language product descriptions to **500+ government taxonomy categories**.
+A fast, responsive web application designed for streamlined restaurant operations and dining experiences:
+
+* Dynamic interactive menu catalog
+* Real-time cart and order state management
+* Modular component architecture with Vite HMR
+* Optimized mobile-first UI/UX design
 
 **Impact**
 
-`80%` classification accuracy
-`70%` reduction in manual effort
-`10+ min → <1 sec` processing time
+Instant UI response with ultra-fast Vite build  
+Seamless customer ordering workflow
 
 **Stack**
 
-`Python` `FastAPI` `React` `NLP` `ML`
+`React` `Vite` `JavaScript` `HTML5` `CSS3`
+
+[Repository →](https://github.com/Piyushsharma9878/restro)
 
 </td>
 
@@ -153,27 +152,25 @@ Full-stack NLP system mapping natural-language product descriptions to **500+ go
 
 <td width="50%" valign="top">
 
-## 📒 NoteNetra
+## 🔐 AIRAVAT XDR
 
-### Offline IoT Cash Tracking
+### Autonomous AI Cyber Defense Platform
 
-ESP32-powered system designed to digitize informal cash transactions and convert shopkeeper ledger activity into structured credit data.
+Real-time cyber-defense platform combining machine learning and threat classification:
 
-Validated with real shopkeepers.
+* Isolation Forest anomaly detection
+* NLP phishing classification
+* Risk-score fusion algorithms
+* FastAPI backend with React management dashboard
 
 **Impact**
 
-`1,000+` daily cash transactions targeted
-
-**Recognition**
-
-Top 10 — Samsung Solve for Tomorrow 2025
+`<2s` response latency  
+`<5%` reported false-positive rate
 
 **Stack**
 
-`ESP32` `C++` `Python` `IoT`
-
-[Repository →](https://github.com/Chaitanyasethi1/Note)
+`Python` `FastAPI` `React` `Scikit-learn` `NLP`
 
 </td>
 
@@ -183,14 +180,12 @@ Top 10 — Samsung Solve for Tomorrow 2025
 
 ### Autonomous Business Calling Agent
 
-An intelligent voice-based AI bot built specifically for business communications. It can autonomously handle calls, engage with clients naturally, and process business workflows during the conversation.
+An intelligent voice-based AI agent built specifically for business communications:
 
-**Features**
-
-* Natural conversational flow
-* Low-latency voice processing
-* Dynamic context switching
-* Business logic integration
+* Natural conversational flow and dynamic context switching
+* Low-latency voice processing and synthesis
+* Business logic integration for automated customer qualification
+* Seamless backend integration
 
 **Stack**
 
@@ -205,7 +200,7 @@ An intelligent voice-based AI bot built specifically for business communications
 
 # 🧠 Engineering Interests
 
-I'm particularly interested in the layer **between an AI model and a production system**.
+I'm particularly interested in the layer **between user-facing applications and physical systems**.
 
 ```text
                     ┌──────────────────────┐
@@ -214,9 +209,9 @@ I'm particularly interested in the layer **between an AI model and a production 
                                │
                                ▼
                     ┌──────────────────────┐
-                    │    AI APPLICATION    │
+                    │    APPLICATION       │
                     │                      │
-                    │  LLM · RAG · Agents  │
+                    │  React · Web · APIs  │
                     └──────────┬───────────┘
                                │
                                ▼
@@ -224,7 +219,7 @@ I'm particularly interested in the layer **between an AI model and a production 
                     │    SYSTEMS LAYER     │
                     │                      │
                     │ APIs · Workers · DB  │
-                    │ Docker · Linux · AWS │
+                    │ Docker · Linux · CI  │
                     └──────────┬───────────┘
                                │
                                ▼
@@ -232,24 +227,19 @@ I'm particularly interested in the layer **between an AI model and a production 
                     │      REAL WORLD      │
                     │                      │
                     │ Users · Devices      │
-                    │ Sensors · Operations │
+                    │ Sensors · Hardware   │
                     └──────────────────────┘
 ```
 
 ### Areas I'm actively exploring
 
-* LLM application architecture
-* Retrieval-Augmented Generation
-* Autonomous AI agents
-* AI evaluation and reliability
-* NLP systems
-* Computer vision
-* Production APIs
-* Cloud infrastructure
-* Distributed systems
-* Edge AI
-* Embedded systems
-* Developer tooling
+* IoT architecture & edge devices (ESP32)
+* Full-stack web application development (React / Vite)
+* Machine learning & anomaly detection
+* Autonomous AI agents & intelligent tooling
+* High-performance REST APIs & microservices
+* Linux systems & containerized deployments
+* Developer tooling & open-source software
 
 ---
 
@@ -259,34 +249,24 @@ I'm particularly interested in the layer **between an AI model and a production 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-### AI / ML / LLM
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=111111"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-### Full-Stack & Infrastructure
+### Frameworks & Libraries
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
 ### Hardware / IoT
@@ -294,6 +274,16 @@ I'm particularly interested in the layer **between an AI model and a production 
 <p>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+
+### Infrastructure & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111"/>
 </p>
 
 ---
@@ -327,78 +317,47 @@ I'm particularly interested in the layer **between an AI model and a production 
 ```text
 2024
  │
- ├── Started building
- ├── Programming fundamentals
- └── First serious projects
+ ├── Started programming journey
+ ├── Core computer science fundamentals
+ └── Building first web & software projects
         │
         ▼
 2025
  │
- ├── AI/ML projects
- ├── Hackathons
- ├── Samsung Solve for Tomorrow
- ├── Supernova Hackathon — 1st Place
- └── Real-world product experimentation
+ ├── NoteNetra — IIoT MSME credit platform
+ ├── Top 10 — Samsung Solve for Tomorrow 2025
+ ├── 1st Place — Supernova Hackathon (GL Bajaj)
+ └── Embedded IoT & full-stack applications
         │
         ▼
 2026
  │
- ├── Software Engineering Internship @ 7rd.ai
- ├── India Innovates — National Finalist
- ├── LLM + RAG systems
- ├── Autonomous AI agents
- └── Production AI infrastructure
+ ├── Advanced full-stack systems (React, Vite, Node.js)
+ ├── AI/ML & intelligent workflow automation
+ ├── Scalable REST APIs & production architectures
+ └── Open source contributions & systems engineering
         │
         ▼
      NEXT →
-     Open Source
-     Systems Engineering
-     Research
-     Production AI
+     Scalable Distributed Systems
+     Production AI Products
+     Open Source Leadership
 ```
-
----
-
-# 📚 Learning in 2026
-
-```text
-2026
- │
- ├── LLM Engineering
- │   ├── RAG architectures
- │   ├── Agentic workflows
- │   ├── AI evaluation
- │   └── Production AI
- │
- ├── Systems Engineering
- │   ├── Linux
- │   ├── Docker
- │   ├── Cloud infrastructure
- │   └── Distributed systems
- │
- └── Applied AI
-     ├── Computer Vision
-     ├── NLP
-     ├── Edge AI
-     └── Autonomous Systems
-```
-
-I want my GitHub to reflect **what I can build**, not simply what technologies I have touched.
 
 ---
 
 # 🎯 2026 Goals
 
 ```text
-[✓] Ship production AI systems
-[✓] Work on autonomous systems
-[✓] Build and deploy LLM applications
-[✓] Reach national-level competitions
+[✓] Top 10 — Samsung Solve for Tomorrow 2025
+[✓] Deploy IIoT + Web hardware solution (NoteNetra)
+[✓] Build modern React + Vite applications (Restro)
+[✓] Win national-level hackathons
 
 [ ] Deepen systems & distributed engineering
 [ ] Contribute meaningfully to open source
-[ ] Publish technical work
-[ ] Build a useful AI product from 0 → 1
+[ ] Expand AI agent and IoT architectures
+[ ] Scale products from 0 → 1
 ```
 
 ---
@@ -407,21 +366,21 @@ I want my GitHub to reflect **what I can build**, not simply what technologies I
 
 ## Let's build something meaningful.
 
-**AI/ML Internships · Software Engineering Internships · Research Collaborations**
+**Software Engineering · Full-Stack Development · IoT Systems**
 
 <br>
 
-<a href="https://www.linkedin.com/in/chaitanyasethi009">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Piyushsharma9878">
+<img src="https://img.shields.io/badge/GitHub-Piyushsharma9878-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:chaitanyasethi3336@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sh23piyush@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-sh23piyush%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<sub>AI systems • software engineering • autonomous systems</sub>
+<sub>Full-stack systems • IoT & hardware • software engineering</sub>
 <br><br>
 
 <i>"Don't just learn — build something real."</i>
